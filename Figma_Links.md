@@ -4,7 +4,7 @@ Each project highlights different design elements, user flows, and interactive p
 Click on the links below to explore the designs in detail.
 
 
-App Name: Explorer https://www.figma.com/design/5cehA93xswMYrMwht4OLB5/Explorer?node-id=0-1&t=pOmqYw1dknKxiY79-1
+App Name: Explorer [Figma]([https://www.linkedin.com/in/sd-samrat-dhakal/](https://www.figma.com/design/5cehA93xswMYrMwht4OLB5/Explorer?node-id=0-1&t=pOmqYw1dknKxiY79-1))
 
 Explorer is a location-based app designed to help users discover trending places, nearby attractions, and receive personalized recommendations based on their interests. With an intuitive interface and real-time location tracking, Explorer makes it easy to find exciting new destinations and hidden gems tailored to your preferences.
 
