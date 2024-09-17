@@ -4,7 +4,7 @@ Each project highlights different design elements, user flows, and interactive p
 Click on the links below to explore the designs in detail.
 
 
-App Name: Explorer
+App Name: Explorer                 
 Explorer is a location-based app designed to help users discover trending places, nearby attractions, and receive personalized recommendations based on their interests. With an intuitive interface and real-time location tracking, Explorer makes it easy to find exciting new destinations and hidden gems tailored to your preferences.
 
 Whether you're a travel enthusiast or an adventurer, the app helps you explore the world around you, offering real-time information about nearby attractions, trending spots, and personalized recommendations. Users can also contribute by sharing their experiences through blogs, marking favorite places, and using an interactive map to navigate.
