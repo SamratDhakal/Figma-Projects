@@ -13,6 +13,10 @@ This project is my first experience with Figma, where I'm learning how to create
 Figma(https://www.figma.com/design/5cehA93xswMYrMwht4OLB5/Explorer?node-id=0-1&t=pOmqYw1dknKxiY79-1)
 
 
+[Visit my Instagram profile](https://www.instagram.com/samratdhakal.07/) _(opens in a new tab)_
+
+
+
 
 
 
